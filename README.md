@@ -1,4 +1,4 @@
-Lista de restaurates
+Lista de restaurantes
 - origin
 - upstream
 - local
